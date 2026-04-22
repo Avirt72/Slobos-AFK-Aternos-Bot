@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "jutsumc.mcsh.io",
+    "port": 11496,
     "version": "",
     "try-creative": false
   },
